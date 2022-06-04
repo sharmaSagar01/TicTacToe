@@ -1,0 +1,28 @@
+html,
+body {
+  font: 14px "Century Gothic", Futura, sans-serif;
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+ol,
+ul {
+  padding: 30px;
+}
+.app {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+.app__board {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/* .app__info {
+  margin-left: 20px;
+} */
